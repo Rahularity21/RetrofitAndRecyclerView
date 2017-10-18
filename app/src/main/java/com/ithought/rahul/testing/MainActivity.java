@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     private static final String TAG = MainActivity.class.getSimpleName();
-    private final static String API_KEY = "92a64386c5d5c264ec687d24a9ef9f2c";
+    private final static String API_KEY = ""; /*YOUR API KEY HERE*/
     private RecyclerView recyclerView;
 
     @Override
